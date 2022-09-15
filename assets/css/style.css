@@ -5,6 +5,7 @@ body {
   animation: fadeIn 1s;
   font-family: "Open Sans", sans-serif;
   color: #444;
+  background: #e6ecec
 }
 
 a {
@@ -508,7 +509,6 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
   padding-bottom: 30px;
 }
 
@@ -516,6 +516,7 @@ section {
   margin-bottom: 20px;
   overflow: hidden;
   color: #444;
+  background: white;
   text-align: center;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 20px 20px 30px 20px;
@@ -559,6 +560,7 @@ section {
 
 .contact .info-box {
   color: #444;
+  background: white;
   text-align: center;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   border-radius: 10px;
