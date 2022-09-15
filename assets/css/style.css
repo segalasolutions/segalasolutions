@@ -226,8 +226,8 @@ h6,
 # Intro Section
 --------------------------------------------------------------*/
 .intro-container {
-  border-bottom-left-radius: 50%;
-  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
   min-width: 100%;
   min-height: 50vw;
   padding-top: 120px;
