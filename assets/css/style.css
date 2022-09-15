@@ -605,6 +605,7 @@ section {
 
 .contact .email-form button[type=submit] {
   background: #68A4C4;
+  margin-top: 10px;
   border: 0;
   padding: 10px 24px;
   color: #fff;
