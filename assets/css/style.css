@@ -227,10 +227,13 @@ h6,
 .intro-container {
   width: 100%;
   height: 90vh;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
   overflow: hidden;
   position: relative;
-  background-color: #062333;
   text-align: center;
+  background-color: #062333;
+  color: white;
 }
 
 .intro-logo {
