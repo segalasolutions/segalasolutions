@@ -230,14 +230,7 @@ h6,
   overflow: hidden;
   position: relative;
   background-color: #062333;
-}
-
-.intro-content {
-  color: white;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  align-content: center;
 }
 
 .intro-logo {
