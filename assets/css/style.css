@@ -321,53 +321,6 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
-.breadcrumbs {
-  padding: 15px 0;
-  background-color: #f3f8fa;
-  min-height: 40px;
-}
-
-.breadcrumbs h2 {
-  font-size: 28px;
-  font-weight: 300;
-}
-
-.breadcrumbs ol {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.breadcrumbs ol li+li {
-  padding-left: 10px;
-}
-
-.breadcrumbs ol li+li::before {
-  display: inline-block;
-  padding-right: 10px;
-  color: #6c757d;
-  content: "/";
-}
-
-@media (max-width: 768px) {
-  .breadcrumbs .d-flex {
-    display: block !important;
-  }
-
-  .breadcrumbs ol {
-    display: block;
-  }
-
-  .breadcrumbs ol li {
-    display: inline-block;
-  }
-}
-
-/*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
 .services {
@@ -499,6 +452,13 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about-card {
+  background: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+}
+
 .about-image {
   border-radius: 10px;
 }
