@@ -69,7 +69,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #062333;
+  background: #1e4356;
 }
 
 #header.header-transparent {
@@ -234,7 +234,7 @@ h6,
   overflow: hidden;
   position: relative;
   text-align: center;
-  background-color: #1e4356;
+  background-color: #062333;
   color: white;
 }
 
@@ -454,7 +454,6 @@ section {
 --------------------------------------------------------------*/
 .about-card {
   background: white;
-  text-align: center;
   border-radius: 10px;
   padding: 20px;
 }
