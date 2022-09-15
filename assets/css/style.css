@@ -222,17 +222,19 @@ h6,
 
 
 /*--------------------------------------------------------------
-# Hero Section
+# Intro Section
 --------------------------------------------------------------*/
 .intro-container {
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
+  min-width: 100vw;
+  min-height: 50vw;
+  padding-top: 120px;
   overflow: hidden;
   position: relative;
   text-align: center;
   background-color: #062333;
   color: white;
-  min-width: 100vw;
 }
 
 .intro-logo {
@@ -266,20 +268,6 @@ h6,
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) translateY(18px) rotate(2deg);
 }
-
-
-/* .intro-container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.intro-content {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
 
 /*--------------------------------------------------------------
 # Sections General
