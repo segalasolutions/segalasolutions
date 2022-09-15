@@ -455,7 +455,8 @@ section {
 .about-card {
   background: white;
   border-radius: 10px;
-  padding: 20px;
+  padding: 30px;
+  margin: 5%;
 }
 
 .about-image {
