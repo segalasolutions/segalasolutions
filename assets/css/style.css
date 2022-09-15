@@ -240,6 +240,11 @@ h6,
   transform: translate(-50%, -50%);
 }
 
+.intro-logo {
+  width: 30vw;
+}
+
+
 #intro-container::after {
   content: "";
   position: absolute;
